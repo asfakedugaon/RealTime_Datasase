@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealTime Datasase</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_email">Enter email</string>
+    <string name="add_data">Add data</string>
+    <string name="user_email">User Email</string>
+    <string name="user_name">User Name</string>
+    <string name="updata_data">Updata data</string>
+</resources>

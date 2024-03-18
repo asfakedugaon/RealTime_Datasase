@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "856953420040",
+    "firebase_url": "https://phone-auth-ec538-default-rtdb.firebaseio.com",
+    "project_id": "phone-auth-ec538",
+    "storage_bucket": "phone-auth-ec538.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856953420040:android:4ff5124db25adcc56154bd",
+        "android_client_info": {
+          "package_name": "com.example.otpverification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xXJlCCGOA9dk8UEPbWlqjaAJhD1Du0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856953420040:android:92646886512a36646154bd",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatasase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xXJlCCGOA9dk8UEPbWlqjaAJhD1Du0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
